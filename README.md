@@ -4,5 +4,4 @@
 
 🏃‍♂️ Athlete, 📚 bookworm, 👶 father, ☕ caffienated, 📸 photographer
 
-New developer currently learning `JavaScript` and `React`
-by crawling all over MDN Web Docs & ReactJS Docs.
+New developer currently learning `JavaScript` and `React`.
