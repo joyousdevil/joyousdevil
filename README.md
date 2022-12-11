@@ -4,4 +4,4 @@
 
 🏃‍♂️ Athlete, 📚 bookworm, 👶 father, ☕ caffienated, 📸 photographer
 
-New developer currently learning `JavaScript` and `React`.
+New developer currently learning `JavaScript`, `HTML`, `CSS`, `C#` and `React`.
