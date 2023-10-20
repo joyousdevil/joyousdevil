@@ -1,6 +1,7 @@
 # 🌊 Hi there! (I 'waved' at you)
 
-![](https://komarev.com/ghpvc/?username=joyousdevil)
+![](https://komarev.com/ghpvc/?username=joyousdevil) | ![GitHub User's stars](https://img.shields.io/github/stars/joyousdevil) |
+--- | --- |
 
 ```surfin a tidal wave of coffee on a board made of i dont care```
 
