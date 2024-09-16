@@ -5,11 +5,11 @@
 
 ```surfin a tidal wave of coffee on a board made of i dont care```
 
-**Remember the buster.** 🏎
+~vscode~ No, **VIM**.
 
-_Too dead to die._ 🚬
+📍 Saipan
 
-📚 bookworm, 👶 father, ☕ caffienated, 📸 photographer
+🎸 guitar player, 🎵 music nerd, ☕ caffienated, 📸 photographer
 
 ![](https://github-readme-stats.vercel.app/api?username=joyousdevil&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joyousdevil&theme=light&hide_border=false)<br/>
