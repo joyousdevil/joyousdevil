@@ -11,6 +11,6 @@
 
 🎸 guitar player, 🎵 music nerd, ☕ caffienated, 📸 photographer
 
-![JoyousDevil's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyousdevil)
-![JoyousDevil's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=joyousdevil&theme=light&hide_border=false)
-![JoyousDevil's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joyousdevil&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![JoyousDevil's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyousdevil)<br/>
+![JoyousDevil's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=joyousdevil&theme=light&hide_border=false))<br/>
+![JoyousDevil's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joyousdevil&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact))<br/>
