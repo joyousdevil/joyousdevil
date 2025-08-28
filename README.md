@@ -5,7 +5,7 @@
 
 ```surfin a tidal wave of coffee on a board made of i dont care```
 
-~vscode~ No, **VIM**.
+VIM enthusiast.
 
 📍 Saipan
 
