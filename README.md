@@ -1,12 +1,24 @@
-# readme
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=joyousdevil) | ![GitHub User's stars](https://img.shields.io/github/stars/joyousdevil) |
---- | --- |
+# hi
 
-i like vim
+📍 Saipan &nbsp;·&nbsp; i like vim
 
-📍 Saipan
+&nbsp;
 
-![JoyousDevil's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyousdevil&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true)<br/>
-![JoyousDevil's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=joyousdevil&theme=transparent&hide_border=true)<br/>
-![JoyousDevil's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joyousdevil&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true)<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=joyousdevil&style=flat-square&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/joyousdevil?style=flat-square&color=yellow)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyousdevil&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joyousdevil&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyousdevil&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true)
+
+</div>
